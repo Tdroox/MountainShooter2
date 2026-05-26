@@ -7,5 +7,4 @@ class Menu:
 
     def run(self):
 
-        game = Game(self.window)
-        game.run()
+       pass
